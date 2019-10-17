@@ -1,5 +1,5 @@
-# aws_text
-AWS TEST CHALLENGE
+
+## AWS TEST CHALLENGE: **NLP CLASSFICATION**
 
 
 
@@ -13,3 +13,5 @@ AWS TEST CHALLENGE
 * Amazon SageMaker
 * Jupyter Notebooks
 * Python
+
+
