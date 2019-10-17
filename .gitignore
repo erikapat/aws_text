@@ -4,3 +4,4 @@
 *.csv
 *.Rhistory
 *.pyc
+*.ipynb_checkpoints
