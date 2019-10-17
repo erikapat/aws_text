@@ -1,6 +1,6 @@
-.bin
-.log
-.tsv
-.csv
-.Rhistory
-.pyc
+*.bin
+*.log
+*.tsv
+*.csv
+*.Rhistory
+*.pyc
