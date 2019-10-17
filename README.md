@@ -4,7 +4,7 @@
 
 
 **Work in process**
-* First prototype, description and general solution in the folder prototype. 
+* First prototype, description and general solution in the folder: prototype. 
 * Notebook with the prototype: 0.prototype.ipynb
 * The objective is create a complete process with ETL's and the use of different methodologies.
 
@@ -13,5 +13,7 @@
 * Amazon SageMaker
 * Jupyter Notebooks
 * Python
+
+**Methodologies**
 
 
