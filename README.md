@@ -16,4 +16,8 @@
 
 **Methodologies**
 
+* ...
+* TIF
+* Word2Vect
+
 
